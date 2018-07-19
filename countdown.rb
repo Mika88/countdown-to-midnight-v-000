@@ -1,4 +1,5 @@
-def countdown(number)
+require 'pry'
+ def countdown(number)
   counter = number
   while counter > 0
     puts "\n#{counter} SECOND(S)!"
