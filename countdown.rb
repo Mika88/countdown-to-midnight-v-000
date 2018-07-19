@@ -4,7 +4,7 @@ require 'pry'
   while counter > 0
     puts "\n#{counter} SECOND(S)!"
     counter -= 1
-    end  
+    end
     "HAPPY NEW YEAR!"
  end
 binding.pry
