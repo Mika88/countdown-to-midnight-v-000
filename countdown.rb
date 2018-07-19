@@ -5,5 +5,6 @@ require 'pry'
     puts "\n#{counter} SECOND(S)!"
     counter -= 1
     end
+    binding.pry
     "HAPPY NEW YEAR!"
  end
