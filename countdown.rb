@@ -5,3 +5,4 @@ def countdown(integer)
   counter -= 1
   end
 end
+ puts "HAPPY NEW YEAR!"
